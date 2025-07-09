@@ -1,8 +1,7 @@
 # 🏨 Hotel Management System – Java
 
-A console-based Hotel Management System built using Java and Object-Oriented Programming principles. This project simulates the operations of a hotel including room booking, food ordering, billing, and customer record management. It supports file handling for data persistence and multithreading for efficient background file saving.
+This project is a Java-based console application designed to manage core hotel operations like room booking, food ordering, billing, and customer management. It follows object-oriented principles, uses file handling to persist data between sessions, and implements multithreading for background file saving. The system ensures a smooth user experience through custom exception handling and a menu-driven interface.
 
----
 
 ## 📌 Features
 
@@ -16,7 +15,6 @@ A console-based Hotel Management System built using Java and Object-Oriented Pro
 - ✅ **Exception Handling** – Includes user-defined exceptions and handles runtime errors gracefully.
 - ✅ **Menu-Driven Interface** – Interactive command-line menu system for user operations.
 
----
 
 ## 🧠 Concepts Used
 
@@ -30,7 +28,6 @@ A console-based Hotel Management System built using Java and Object-Oriented Pro
 - Java Collections (ArrayList)
 - User Input (Scanner)
 
----
 
 ## 🛠️ Technologies
 
@@ -39,7 +36,6 @@ A console-based Hotel Management System built using Java and Object-Oriented Pro
 - Serialization
 - Multithreading
 
----
 
 ## 🗂️ Project Structure
 
@@ -52,3 +48,19 @@ Hotel-Management-Project-Java/
 ├── NotAvailable.java
 ├── write.java
 ├── README.md
+
+
+
+## 🚀 How to Run
+
+1. **Clone the Repository**
+   git clone https://github.com/SidTirse-13/Hotel-Management-System.git
+   cd Hotel-Management-System
+2. **Compile and Run the Program**
+   javac Main.java
+   java Main
+
+🙋‍♂️ Author
+**Siddhesh Tirse**
+Full Stack Java Developer | B.E. in Computer Engineering
+LinkedIn - https://www.linkedin.com/in/siddhtirse
